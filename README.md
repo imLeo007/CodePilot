@@ -119,9 +119,9 @@ inside PostgreSQL.
 
 ## Video Walkthrough
 
-[![CodePilot Demo](screenshots/cli.png)](screenshots/demo.mp4)
+<video src="https://github.com/user-attachments/assets/995417c5-2fea-48cd-bd35-a635ab5a5ccd" controls="controls" width="100%"></video>
 
-*Click the image above to view the 1-minute demo video showing failure
+*View the 1-minute demo video showing failure
 detection, interactive diff confirmation, and automated test resolution.*
 
 ## System Logs & Audit Trail
