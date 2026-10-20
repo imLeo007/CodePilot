@@ -1,0 +1,5 @@
+services:
+  wallet:
+    build: .
+    volumes:
+      - .:/app
